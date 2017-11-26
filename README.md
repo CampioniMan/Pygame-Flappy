@@ -12,7 +12,7 @@ Caso ocorra algum problema, verifique a se a instalação do _Python_ e do _Pyga
 # Como jogar
 A jogabilidade do jogo é bem simples e terá de continuar assim. Há apenas 2 ações possíveis de serem realizadas: 
 - Pular (apertando a tecla "W" ou a seta para cima)
-- Reiniciar o jogo (Apertando a tecla "Espaço" após morrer no jogo)
+- Reiniciar o jogo (Apertando a tecla "Espaço" após morrer no jogo)<br>
 Um dos objetivos do jogo é não ser complexo, pois ele é apenas um pequeno exemplo do que é possível ser feito com poucas linhas de código em _Python_.
 
 # O que tem de novidade nessa versão
@@ -25,7 +25,7 @@ Planos futuros incluem:
 - Ajuste de velocidade dos canos
 - Adição de Bosses
 - Adição de um ponto final para salvar a princesa
-- Easter eggs ultra secretos
+- Easter eggs ultra secretos<br>
 E muito mais...
 
 # Deseja contribuir?
